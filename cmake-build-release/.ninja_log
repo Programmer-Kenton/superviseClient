@@ -1,0 +1,25 @@
+# ninja log v5
+5	1449	7377598199403329	superviseClient_autogen/timestamp	429c7ec37b77132
+5	1449	7377598199403329	D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-release/superviseClient_autogen/timestamp	429c7ec37b77132
+1457	7478	7377598261042009	CMakeFiles/superviseClient.dir/source/superviseClientWidget.cpp.obj	191eb165230750da
+5	1449	7377598199403329	superviseClient_autogen/mocs_compilation.cpp	429c7ec37b77132
+1449	7202	7377598258290799	CMakeFiles/superviseClient.dir/superviseClient_autogen/mocs_compilation.cpp.obj	e765d867f2a77948
+5	1449	7377598199403329	D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-release/superviseClient_autogen/mocs_compilation.cpp	429c7ec37b77132
+1453	7136	7377598257633985	CMakeFiles/superviseClient.dir/main.cpp.obj	34bf49815e38f87d
+1460	6625	7377598252512221	CMakeFiles/superviseClient.dir/source/FaceDetection.cpp.obj	34cd2fe8c665ac60
+7478	8177	7377598263794341	superviseClient.exe	f3ec1b1bd4d3a5ab
+22	756	7377617329616555	superviseClient_autogen/timestamp	429c7ec37b77132
+22	756	7377617329616555	superviseClient_autogen/mocs_compilation.cpp	429c7ec37b77132
+22	756	7377617329616555	D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-release/superviseClient_autogen/timestamp	429c7ec37b77132
+22	756	7377617329616555	D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-release/superviseClient_autogen/mocs_compilation.cpp	429c7ec37b77132
+765	4375	7377617366578178	CMakeFiles/superviseClient.dir/source/FaceDetection.cpp.obj	34cd2fe8c665ac60
+756	4977	7377617372598880	CMakeFiles/superviseClient.dir/superviseClient_autogen/mocs_compilation.cpp.obj	e765d867f2a77948
+762	5172	7377617374551299	CMakeFiles/superviseClient.dir/source/superviseClientWidget.cpp.obj	191eb165230750da
+20	1089	7377622078896252	superviseClient_autogen/timestamp	429c7ec37b77132
+20	1089	7377622078896252	superviseClient_autogen/mocs_compilation.cpp	429c7ec37b77132
+20	1089	7377622078896252	D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-release/superviseClient_autogen/timestamp	429c7ec37b77132
+20	1089	7377622078896252	D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-release/superviseClient_autogen/mocs_compilation.cpp	429c7ec37b77132
+1090	6069	7377622129998089	CMakeFiles/superviseClient.dir/superviseClient_autogen/mocs_compilation.cpp.obj	e765d867f2a77948
+1093	6126	7377622130582463	CMakeFiles/superviseClient.dir/main.cpp.obj	34bf49815e38f87d
+1097	6324	7377622132569392	CMakeFiles/superviseClient.dir/source/superviseClientWidget.cpp.obj	191eb165230750da
+6324	6749	7377622134569277	superviseClient.exe	f3ec1b1bd4d3a5ab

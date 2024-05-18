@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "superviseClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "superviseClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-superviseClient-Debug-085543a48b19bca16ca7.json",
+					"name" : "superviseClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "superviseClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-superviseClient_autogen-Debug-951645ab910c7e7e9afa.json",
+					"name" : "superviseClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "superviseClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-superviseClient_autogen_timestamp_deps-Debug-a1d5154f6535f29b8bd2.json",
+					"name" : "superviseClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-debug",
+		"source" : "D:/C_Study/WorkSpace/Cpp_Study/superviseClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

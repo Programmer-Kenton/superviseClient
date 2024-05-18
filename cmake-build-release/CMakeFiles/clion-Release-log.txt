@@ -1,0 +1,10 @@
+E:\QT\Tools\CMake_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=E:/ToolBox/CLion 2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\C_Study\WorkSpace\Cpp_Study\superviseClient -B D:\C_Study\WorkSpace\Cpp_Study\superviseClient\cmake-build-release
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.9.0 in E:/OpenCV/opencv/MinGW-build/install/x64/mingw/lib
+-- You might need to add E:\OpenCV\opencv\MinGW-build\install\x64\mingw\bin to your PATH to be able to run your applications.
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/C_Study/WorkSpace/Cpp_Study/superviseClient/cmake-build-release
